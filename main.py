@@ -1,14 +1,17 @@
 from fighter import Fighter 
 from random import randint
+from datetime import datetime
+
+
 
 # Initialisation
 
-number_of_simulations = 500 # Number of simulations (generations of participants) to take place
+number_of_simulations = 50 # Number of simulations (generations of participants) to take place
 debug_feedback = False # Tells the program whether to print debug information to the test
 
 fighter_list:list[Fighter] = [] # Create the first batch of competitors
 for i in range(100):
-    fighter_list.append(Fighter(str(i),1,10,1,5,5))
+    fighter_list.append(Fighter(str(i),1,10,1,5,5,30,5,5))
 
 # Battle script
 
@@ -63,6 +66,20 @@ def match_making(fighter_list):
 
 # Natural Selection
 
+def check_letters(fighter_list:list[Fighter],removed_string:str)->str:
+    # Cut down fighter names
+    letter = fighter_list[0].name[0]
+    same_letter = True
+    for fighter in fighter_list:
+        if fighter.name[0] != letter:
+            same_letter = False
+    if same_letter == False:
+        return removed_string
+    else:
+        for fighter in fighter_list:
+            fighter.name = fighter.name[1:]
+        return check_letters(fighter_list,removed_string+letter)
+
 def natural_selection(fighter_list:list[Fighter])->fighter_list:    
     list_size = len(fighter_list)
     for i in range(0,list_size):
@@ -74,8 +91,11 @@ def natural_selection(fighter_list:list[Fighter])->fighter_list:
             print(f"{fighter.name} has won {fighter.wins} times")
     fighter_list = fighter_list[-10:100]
     file = open("logs/log.txt","a")
+    bloodline = check_letters(fighter_list,"")
+    if len(bloodline) != 0:
+        file.write(f"Fighter '{bloodline}'s children dominate the arena!\n")
     for fighter in fighter_list:
-        file.write(f"{fighter.name}: {fighter.wins} - DMG:{fighter.attack_damage} - Health:{fighter.max_health} - Initiative:{fighter.initiative} - Weights:|{fighter.attack_weight}:{fighter.idle_weight}|\n")
+        file.write(f"{fighter.name}: {fighter.wins} - DMG:{fighter.attack_damage} - Health:{fighter.max_health} - Initiative:{fighter.initiative} - Priorities:|{fighter.attack_weight}:{fighter.idle_weight}| - Energy(Max,Regen,EPDMG):|{fighter.max_energy}:{fighter.energy_regain}:{fighter.energy_damage_ratio}|\n")
     file.write("========================\n\n")
     file.close()
     return(fighter_list)
@@ -85,9 +105,9 @@ def mutation(fighter_list:list[Fighter]) -> fighter_list:
     new_list = []
     for fighter in fighter_list:
         for i in range(10):
-            new_fighter = Fighter(fighter.name+"."+str(i),fighter.attack_damage,fighter.max_health,fighter.initiative,fighter.attack_weight,fighter.idle_weight)
+            new_fighter = Fighter(fighter.name+"."+str(i),fighter.attack_damage,fighter.max_health,fighter.initiative,fighter.attack_weight,fighter.idle_weight,fighter.max_energy,fighter.energy_regain,fighter.energy_damage_ratio)
             if randint(1,5) == 1: # IF 1, a mutation occurs (therefore about 2 offspring per parent mutate, keeping a healthy baseline population)
-                mutation = randint(1,5)
+                mutation = randint(1,8)
                 match mutation:
                     case 1: # Damage (up or down by up to 1) 
                         new_fighter.attack_damage += randint(-1,1)
@@ -105,6 +125,18 @@ def mutation(fighter_list:list[Fighter]) -> fighter_list:
                         new_fighter.idle_weight +=randint(-1,1)
                         if new_fighter.idle_weight <=0:
                             new_fighter.idle_weight = 1
+                    case 6: # Max energy
+                        new_fighter.max_energy+=randint(-15,15)
+                        if new_fighter.max_energy <=0:
+                            new_fighter.max_energy = 1
+                    case 7: # Energy Regain
+                        new_fighter.energy_regain+=randint(-3,3)
+                        if new_fighter.energy_regain<=0:
+                            new_fighter.energy_regain = 1
+                    case 8: # Energy to Damage ratio 
+                        new_fighter.energy_damage_ratio+=randint(-1,1)
+                        if new_fighter.energy_damage_ratio<=0:
+                            new_fighter.energy_damage_ratio=1
             new_list.append(new_fighter)
     fighter_list = new_list
     return(fighter_list)
@@ -114,10 +146,19 @@ def mutation(fighter_list:list[Fighter]) -> fighter_list:
 
 # Event Handler
 
+file = open("logs/log.txt","a")
+file.write("Round 0\n")
+file.close()
 match_making(fighter_list)
 fighter_list = natural_selection(fighter_list)
 fighter_list = mutation(fighter_list)
 for i in range(number_of_simulations):
+    file = open("logs/log.txt","a")
+    file.write(f"Round {i+1}\n")
+    file.close()
     match_making(fighter_list)
     fighter_list = natural_selection(fighter_list)
+    #if i == 10:
+    #    for fighter in fighter_list:
+    #        fighter.energy_damage_ratio = fighter.energy_damage_ratio*5
     fighter_list = mutation(fighter_list)
