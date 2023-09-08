@@ -1,400 +1,680 @@
 Round 0
-87: 55 - DMG:1 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-7: 56 - DMG:1 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-15: 56 - DMG:1 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-50: 56 - DMG:1 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-57: 56 - DMG:1 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-89: 56 - DMG:1 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-12: 57 - DMG:1 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-3: 60 - DMG:1 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-22: 60 - DMG:1 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-29: 62 - DMG:1 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
+53: 56 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:5:30|
+68: 56 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:5:30|
+85: 56 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:5:30|
+87: 56 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:5:30|
+3: 57 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:5:30|
+35: 57 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:5:30|
+43: 57 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:5:30|
+1: 58 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:5:30|
+58: 58 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:5:30|
+41: 60 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:5:30|
 ========================
 
 Round 1
-15.9: 58 - DMG:1 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-50.8: 59 - DMG:1 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-7.4: 61 - DMG:1 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:4|
-15.8: 61 - DMG:1 - Health:10 - Initiative:2 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-7.1: 62 - DMG:1 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-87.3: 63 - DMG:1 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-7.6: 66 - DMG:1 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:4|
-3.5: 67 - DMG:1 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:4|
-15.0: 72 - DMG:2 - Health:10 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-50.7: 88 - DMG:1 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
+58.9: 56 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:5:30|
+85.9: 57 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:5:30|
+87.4: 57 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:5:30|
+58.7: 57 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:5:30|
+35.7: 62 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:5:30|
+68.1: 76 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:5:29|
+87.3: 84 - DMG:1 - Health:33 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|165:5:30| HRT - HP:3 - EC:15
+35.9: 95 - DMG:1 - Health:36 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|155:5:30| DBLHRT - HP:6 - EC:25
+41.6: 98 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:6:30|
+68.8: 99 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:7:30|
 ========================
 
 Round 2
-50.7.9: 71 - DMG:1 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-50.7.2: 72 - DMG:1 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-50.7.4: 73 - DMG:1 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|45:5:5|
-50.7.1: 74 - DMG:1 - Health:13 - Initiative:0 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-50.7.3: 74 - DMG:1 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-87.3.5: 77 - DMG:1 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-50.7.5: 77 - DMG:1 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-50.7.0: 79 - DMG:1 - Health:14 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-50.7.6: 81 - DMG:1 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-50.7.7: 88 - DMG:1 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
+68.8.8: 91 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:7:30|
+68.8.2: 92 - DMG:1 - Health:30 - Initiative:0 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:7:30|
+68.8.5: 92 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:7:30|
+68.8.6: 92 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:7:30|
+68.8.0: 93 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:7:30|
+68.8.4: 93 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:7:30|
+68.8.1: 94 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:7:30|
+68.8.3: 94 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:7:30|
+68.8.9: 94 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:7:30|
+41.6.1: 99 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:8:30|
 ========================
 
 Round 3
-Fighter '50.7.'s children dominate the arena!
-0.4: 58 - DMG:1 - Health:14 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-3.6: 60 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:5:5|
-7.3: 62 - DMG:1 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-7.2: 63 - DMG:1 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-7.9: 65 - DMG:1 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-7.6: 66 - DMG:1 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-4.5: 67 - DMG:1 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|45:7:5|
-7.4: 67 - DMG:1 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-7.7: 71 - DMG:1 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-7.8: 94 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
+41.6.1.4: 79 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:8:30|
+68.8.6.2: 81 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:6| - Energy(Max,Regen,EPDMG):|180:7:30|
+41.6.1.0: 81 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:8:30|
+41.6.1.1: 82 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:8:30|
+41.6.1.9: 83 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:8:30|
+41.6.1.5: 85 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:8:30|
+41.6.1.8: 85 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:8:30|
+41.6.1.6: 89 - DMG:1 - Health:30 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|180:8:30|
+68.8.5.9: 95 - DMG:1 - Health:36 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|155:7:30| DBLHRT - HP:6 - EC:25
+41.6.1.3: 95 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:8:30|
 ========================
 
 Round 4
-Fighter '7.'s children dominate the arena!
-3.9: 65 - DMG:1 - Health:13 - Initiative:1 - Priorities:|5:4| - Energy(Max,Regen,EPDMG):|30:8:5|
-8.9: 74 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:4| - Energy(Max,Regen,EPDMG):|30:8:5|
-8.8: 75 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-8.1: 78 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-8.2: 80 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-8.7: 80 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-8.3: 81 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-8.0: 82 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-8.4: 85 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-8.5: 88 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
+Fighter '41.6.1.'s children dominate the arena!
+3.1: 79 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:8:30|
+6.2: 80 - DMG:1 - Health:33 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|165:8:30| HRT - HP:3 - EC:15
+3.0: 80 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:8:30|
+3.7: 81 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:8:30|
+3.9: 81 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:8:30|
+3.3: 82 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:8:30|
+3.4: 82 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:8:30|
+9.9: 92 - DMG:1 - Health:36 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|155:8:30| DBLHRT - HP:6 - EC:25
+1.6: 95 - DMG:1 - Health:36 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|155:8:30| DBLHRT - HP:6 - EC:25
+3.8: 99 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:9:30|
 ========================
 
 Round 5
-Fighter '8.'s children dominate the arena!
-1.7: 59 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-4.7: 59 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-9.9: 60 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:4| - Energy(Max,Regen,EPDMG):|30:8:5|
-1.3: 60 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-1.2: 61 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-9.4: 62 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:4| - Energy(Max,Regen,EPDMG):|30:8:5|
-7.5: 63 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-2.2: 65 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:5|
-5.5: 70 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:9:5|
-1.8: 74 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:4|
+1.6.2: 75 - DMG:1 - Health:36 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|155:8:30| DBLHRT - HP:6 - EC:25
+3.8.6: 75 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:9:30|
+3.8.8: 77 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:9:30|
+3.8.4: 78 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:9:30|
+3.8.3: 79 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:9:30|
+3.8.2: 80 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:9:30|
+3.8.7: 81 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:9:30|
+3.8.9: 82 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:9:30|
+3.8.0: 84 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:9:30|
+3.8.5: 84 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:9:30|
 ========================
 
 Round 6
-5.5.3: 60 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:9:5|
-1.8.6: 62 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:4|
-1.8.1: 63 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:4|
-1.8.2: 64 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:4|
-1.8.4: 65 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:4|
-1.8.0: 66 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:4|
-1.8.5: 66 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:4|
-1.8.9: 67 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:4|
-5.5.0: 69 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:12:5|
-1.8.8: 72 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:8:4|
+Fighter '3.8.'s children dominate the arena!
+7.5: 59 - DMG:1 - Health:31 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:9:30|
+6.2: 62 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:9:30|
+5.6: 63 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:9:30|
+9.9: 65 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:9:29|
+9.3: 67 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:9:29|
+9.6: 68 - DMG:1 - Health:31 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:9:30|
+6.3: 94 - DMG:1 - Health:36 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:9:30| DBLHRT - HP:6 - EC:25
+0.9: 95 - DMG:1 - Health:36 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:9:30| DBLHRT - HP:6 - EC:25
+7.2: 98 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:12:30|
+8.5: 99 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:12:30|
 ========================
 
 Round 7
-1.8.6.5: 58 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:4|
-1.8.4.1: 58 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:4|
-1.8.9.4: 58 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:4|
-1.8.1.2: 59 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:4|
-5.5.0.2: 60 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:12:5|
-1.8.6.3: 61 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:4|
-1.8.1.5: 62 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:4| - Energy(Max,Regen,EPDMG):|30:8:4|
-1.8.8.3: 64 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-1.8.8.2: 65 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:8:4|
-1.8.6.7: 66 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:11:4|
+8.5.6: 86 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:12:30|
+8.5.8: 86 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:12:30|
+7.2.4: 87 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:12:30|
+7.2.9: 87 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:12:30|
+8.5.7: 87 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:12:30|
+8.5.3: 88 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:12:30|
+8.5.5: 88 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:12:30|
+8.5.9: 88 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:12:30|
+7.2.0: 92 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:12:30|
+8.5.1: 94 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|180:12:30|
 ========================
 
 Round 8
-Fighter '1.8.'s children dominate the arena!
-8.3.2: 57 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-9.4.6: 58 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:4|
-8.3.7: 58 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-8.3.3: 61 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-8.3.4: 61 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-4.1.3: 62 - DMG:2 - Health:15 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|30:8:4|
-8.3.5: 66 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-8.3.0: 68 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-8.3.6: 69 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-8.3.9: 70 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
+8.5.1.2: 65 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|180:12:30|
+8.5.1.8: 66 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|180:12:30|
+8.5.1.1: 68 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|180:12:30|
+8.5.1.0: 69 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|180:12:30|
+8.5.1.4: 70 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|180:12:30|
+8.5.1.5: 70 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|180:12:30|
+8.5.1.7: 71 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|180:12:30|
+8.5.1.9: 71 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|180:12:30|
+7.2.9.4: 79 - DMG:1 - Health:33 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:12:30|
+8.5.7.6: 95 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:15:30|
 ========================
 
 Round 9
-Fighter '8.3.'s children dominate the arena!
-2.7: 57 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-2.8: 57 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-4.3: 57 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-5.7: 57 - DMG:2 - Health:13 - Initiative:2 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-4.8: 58 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-9.5: 58 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-6.0: 60 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-7.1: 64 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-4.9: 68 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-4.0: 70 - DMG:2 - Health:15 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
+Fighter '8.5.'s children dominate the arena!
+7.6.6: 79 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:15:30|
+7.6.1: 80 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:15:30|
+7.6.8: 81 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:15:30|
+7.6.3: 82 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:15:30|
+7.6.7: 82 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:15:30|
+7.6.4: 84 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:15:30|
+7.6.2: 87 - DMG:1 - Health:30 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|180:15:30|
+1.2.9: 90 - DMG:1 - Health:36 - Initiative:1 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|155:12:30| DBLHRT - HP:6 - EC:25
+7.6.5: 94 - DMG:1 - Health:30 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|180:15:30|
+7.6.9: 98 - DMG:1 - Health:36 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
 ========================
 
 Round 10
-4.0.5: 61 - DMG:2 - Health:15 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-2.7.7: 62 - DMG:2 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-4.0.6: 62 - DMG:2 - Health:15 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-4.9.2: 63 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-4.9.3: 64 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-4.9.7: 64 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-4.0.8: 65 - DMG:2 - Health:15 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-4.9.9: 67 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-4.0.7: 67 - DMG:2 - Health:15 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-9.5.2: 72 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
+Fighter '7.6.'s children dominate the arena!
+9.1: 81 - DMG:1 - Health:36 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
+9.2: 81 - DMG:1 - Health:36 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
+9.6: 81 - DMG:1 - Health:36 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
+9.3: 86 - DMG:1 - Health:36 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
+9.9: 86 - DMG:1 - Health:36 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
+9.8: 87 - DMG:1 - Health:36 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
+9.5: 88 - DMG:1 - Health:36 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
+9.7: 91 - DMG:1 - Health:36 - Initiative:1 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
+9.0: 92 - DMG:1 - Health:36 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
+5.9: 93 - DMG:1 - Health:36 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
 ========================
 
 Round 11
-Fighter '4.9.'s children dominate the arena!
-9.7: 60 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-2.3: 61 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-3.3: 61 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-7.0: 61 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-2.8: 63 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-3.8: 63 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-7.7: 63 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-2.0: 66 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-2.1: 66 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|41:10:4|
-3.4: 69 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
+9.7.5: 68 - DMG:1 - Health:36 - Initiative:1 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
+9.7.4: 69 - DMG:1 - Health:36 - Initiative:1 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
+5.9.9: 69 - DMG:1 - Health:36 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
+5.9.2: 70 - DMG:1 - Health:36 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
+5.9.0: 71 - DMG:1 - Health:36 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
+5.9.4: 73 - DMG:1 - Health:36 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
+9.1.3: 74 - DMG:1 - Health:36 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
+5.9.8: 74 - DMG:1 - Health:36 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:6 - EC:25
+5.9.6: 79 - DMG:1 - Health:36 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|155:15:29| DBLHRT - HP:6 - EC:25
+9.2.1: 84 - DMG:1 - Health:41 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:11 - EC:25
 ========================
 
 Round 12
-2.3.5: 59 - DMG:3 - Health:13 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-7.0.2: 59 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-9.7.3: 60 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:4|
-7.7.7: 61 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:13:4|
-3.4.9: 61 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-3.4.4: 62 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-3.4.8: 62 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-3.4.0: 63 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-3.4.2: 66 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-3.4.5: 66 - DMG:3 - Health:15 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
+Fighter '9.2.1.'s children dominate the arena!
+6: 63 - DMG:1 - Health:41 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:11 - EC:25
+8: 63 - DMG:1 - Health:41 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:11 - EC:25
+9: 64 - DMG:1 - Health:41 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|150:15:30| DBLHRT - HP:11 - EC:25
+7: 66 - DMG:1 - Health:41 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:11 - EC:25
+3: 69 - DMG:1 - Health:41 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:11 - EC:25
+1: 71 - DMG:1 - Health:41 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:11 - EC:25
+0: 72 - DMG:1 - Health:41 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:11 - EC:25
+4: 72 - DMG:1 - Health:41 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:11 - EC:25
+2: 74 - DMG:1 - Health:41 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:11 - EC:25
+5: 86 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:15:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
 ========================
 
 Round 13
-3.4.4.2: 59 - DMG:4 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-3.4.9.0: 61 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-3.4.9.3: 61 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-3.4.4.3: 61 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-3.4.8.0: 61 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-3.4.8.8: 61 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-7.7.7.0: 62 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:6| - Energy(Max,Regen,EPDMG):|44:13:4|
-3.4.4.5: 62 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:12:3|
-3.4.0.3: 62 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-3.4.2.8: 63 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:2|
+4.0: 69 - DMG:1 - Health:43 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:15:30| DBLHRT - HP:11 - EC:25
+5.8: 71 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:15:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.2: 72 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:15:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.4: 73 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:15:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.9: 73 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:15:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.3: 75 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:15:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.0: 76 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:15:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.7: 77 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:15:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.5: 81 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:15:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+8.4: 93 - DMG:1 - Health:41 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:18:30| DBLHRT - HP:11 - EC:25
 ========================
 
 Round 14
-Fighter '3.4.'s children dominate the arena!
-4.2.8: 59 - DMG:4 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-2.8.5: 59 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-4.2.4: 60 - DMG:4 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-4.2.6: 60 - DMG:4 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-4.2.7: 61 - DMG:5 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-4.2.1: 62 - DMG:4 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-9.3.1: 62 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-2.8.1: 64 - DMG:3 - Health:15 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:2|
-2.8.6: 66 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:2|
-9.0.4: 72 - DMG:3 - Health:16 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
+8.4.7: 74 - DMG:1 - Health:41 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:18:30| DBLHRT - HP:11 - EC:25
+8.4.0: 75 - DMG:1 - Health:41 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:18:30| DBLHRT - HP:11 - EC:25
+8.4.6: 75 - DMG:1 - Health:41 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:18:30| DBLHRT - HP:11 - EC:25
+5.3.4: 76 - DMG:1 - Health:47 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:15:30| DBLHRT - HP:14 - EC:25 HRT - HP:3 - EC:15
+8.4.1: 81 - DMG:1 - Health:42 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:18:30| DBLHRT - HP:11 - EC:25
+8.4.5: 81 - DMG:1 - Health:41 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:18:30| DBLHRT - HP:11 - EC:25
+5.0.1: 82 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:17:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+8.4.8: 83 - DMG:1 - Health:41 - Initiative:1 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|155:18:30| DBLHRT - HP:11 - EC:25
+8.4.4: 84 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:18:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.2.0: 90 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:18:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
 ========================
 
 Round 15
-9.0.4.4: 57 - DMG:3 - Health:16 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-2.8.5.4: 58 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-4.2.8.9: 59 - DMG:4 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-2.8.6.8: 59 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:2|
-4.2.7.4: 60 - DMG:5 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-4.2.7.7: 61 - DMG:5 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|56:10:3|
-2.8.5.1: 62 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.8.5.9: 62 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-4.2.7.0: 62 - DMG:5 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-2.8.5.7: 69 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:1|
+5.2.0.7: 67 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:18:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+8.4.4.7: 68 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:18:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+8.4.4.8: 70 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:18:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.2.0.2: 70 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:18:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+8.4.1.8: 71 - DMG:1 - Health:42 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:20:30| DBLHRT - HP:11 - EC:25
+8.4.4.9: 71 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:18:29| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.2.0.5: 71 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:18:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+8.4.1.5: 72 - DMG:1 - Health:45 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:18:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+8.4.4.1: 73 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:18:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.0.1.7: 87 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
 ========================
 
 Round 16
-9.0.4.4.2: 59 - DMG:3 - Health:16 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-9.0.4.4.7: 59 - DMG:3 - Health:16 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:3|
-4.2.7.7.0: 59 - DMG:5 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|56:10:3|
-4.2.7.7.4: 60 - DMG:5 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|56:10:3|
-4.2.7.7.9: 60 - DMG:5 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|56:10:3|
-4.2.7.7.1: 62 - DMG:5 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|56:10:3|
-2.8.5.4.6: 63 - DMG:3 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-9.0.4.4.8: 64 - DMG:3 - Health:16 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:2|
-2.8.5.1.3: 64 - DMG:3 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.8.5.4.2: 67 - DMG:4 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:1|
+8.4.4.9.2: 66 - DMG:1 - Health:44 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:18:29| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.0.1.7.5: 66 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.0.1.7.7: 66 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+8.4.1.8.3: 67 - DMG:1 - Health:42 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|155:20:30| DBLHRT - HP:11 - EC:25
+5.0.1.7.0: 67 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.2.0.7.7: 69 - DMG:1 - Health:46 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:18:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.0.1.7.2: 69 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.0.1.7.3: 72 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.0.1.7.1: 75 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.0.1.7.6: 75 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
 ========================
 
 Round 17
-9.0.4.4.2.4: 58 - DMG:3 - Health:16 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|48:10:3|
-2.8.5.1.3.9: 58 - DMG:3 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.8.5.4.2.0: 58 - DMG:4 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.8.5.4.2.1: 58 - DMG:4 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.8.5.4.2.6: 59 - DMG:4 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-9.0.4.4.8.8: 61 - DMG:3 - Health:16 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:2|
-4.2.7.7.0.7: 62 - DMG:5 - Health:13 - Initiative:1 - Priorities:|5:6| - Energy(Max,Regen,EPDMG):|56:10:3|
-2.8.5.4.2.9: 65 - DMG:4 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.8.5.4.2.7: 68 - DMG:4 - Health:13 - Initiative:1 - Priorities:|6:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.8.5.4.2.2: 69 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
+Fighter '5.0.1.7.'s children dominate the arena!
+7.2: 59 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+0.4: 59 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+5.6: 60 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+7.8: 60 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+2.4: 61 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+3.3: 61 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+6.4: 65 - DMG:1 - Health:44 - Initiative:2 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+2.2: 66 - DMG:1 - Health:44 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+0.6: 74 - DMG:1 - Health:47 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:3 - EC:15
+1.2: 89 - DMG:1 - Health:49 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
 ========================
 
 Round 18
-Fighter '2.8.5.4.2.'s children dominate the arena!
-1.4: 63 - DMG:4 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-9.7: 64 - DMG:4 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4: 64 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-1.2: 65 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-7.5: 65 - DMG:4 - Health:13 - Initiative:1 - Priorities:|6:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-1.6: 66 - DMG:4 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.6: 66 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-0.9: 67 - DMG:4 - Health:13 - Initiative:1 - Priorities:|5:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-7.0: 67 - DMG:4 - Health:13 - Initiative:1 - Priorities:|6:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.3: 67 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
+1.2.8: 74 - DMG:1 - Health:49 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+2.4.1: 76 - DMG:1 - Health:49 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+1.2.3: 79 - DMG:1 - Health:49 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+1.2.1: 80 - DMG:1 - Health:49 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+1.2.2: 80 - DMG:1 - Health:49 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+1.2.4: 80 - DMG:1 - Health:49 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+1.2.7: 80 - DMG:1 - Health:49 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+1.2.9: 82 - DMG:1 - Health:49 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+1.2.6: 86 - DMG:1 - Health:49 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+1.2.0: 94 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
 ========================
 
 Round 19
-2.4.3: 61 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-1.2.3: 61 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-2.4.1: 62 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.6: 62 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.9: 62 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-7.5.7: 62 - DMG:4 - Health:13 - Initiative:1 - Priorities:|6:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.8: 63 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-1.2.9: 63 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.0: 65 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-1.2.1: 68 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
+Fighter '1.2.'s children dominate the arena!
+0.0: 70 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+0.7: 71 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+0.6: 72 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+0.8: 72 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+0.9: 72 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+0.3: 73 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+0.4: 76 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+3.0: 78 - DMG:1 - Health:53 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+4.3: 81 - DMG:1 - Health:53 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:20:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+0.1: 86 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:22:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
 ========================
 
 Round 20
-2.4.3.7: 59 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-1.2.3.0: 59 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-2.4.1.0: 59 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.1.1: 59 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.1.5: 60 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.6.2: 61 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.1.3: 63 - DMG:4 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.3.5: 64 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.1.6: 64 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.6.3: 67 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
+Fighter '0.'s children dominate the arena!
+1.0: 66 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:22:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+1.2: 68 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:22:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+1.5: 68 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:22:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+1.7: 69 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:22:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+1.1: 71 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:22:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+1.3: 71 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:22:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+1.8: 74 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:22:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+1.9: 74 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:22:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+0.4: 77 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:22:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+1.6: 90 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
 ========================
 
 Round 21
-2.4.3.7.7: 60 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:4| - Energy(Max,Regen,EPDMG):|44:10:1|
-1.2.3.0.6: 60 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-2.4.1.0.9: 60 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.6.2.3: 60 - DMG:4 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.1.3.0: 60 - DMG:4 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.3.7.8: 61 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.1.0.1: 61 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.1.3.7: 61 - DMG:4 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.1.3.3: 64 - DMG:4 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-1.2.3.0.2: 68 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
+Fighter '1.'s children dominate the arena!
+2.6: 67 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:24:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+6.1: 67 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+6.6: 67 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+6.8: 67 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+6.0: 68 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+6.5: 69 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+6.3: 70 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+6.7: 73 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+9.2: 74 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+6.2: 74 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
 ========================
 
 Round 22
-2.4.6.2.3.0: 60 - DMG:4 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.6.2.3.4: 61 - DMG:4 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.1.3.7.5: 61 - DMG:4 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.1.3.7.6: 61 - DMG:4 - Health:13 - Initiative:2 - Priorities:|7:4| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.6.2.3.3: 62 - DMG:4 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.3.7.7.4: 63 - DMG:4 - Health:13 - Initiative:1 - Priorities:|7:4| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.1.3.7.3: 63 - DMG:4 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.1.3.3.0: 63 - DMG:4 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-1.2.3.0.2.7: 66 - DMG:5 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-1.2.3.0.6.0: 68 - DMG:5 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
+6.6.8: 58 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+6.6.2: 59 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+6.6.4: 59 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+6.3.5: 59 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:29| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+6.2.5: 61 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+6.5.0: 62 - DMG:1 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|151:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+9.2.6: 63 - DMG:1 - Health:54 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:13 - EC:25 HRT - HP:8 - EC:15
+6.3.3: 70 - DMG:1 - Health:55 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+6.7.3: 75 - DMG:1 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+6.7.2: 93 - DMG:2 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
 ========================
 
 Round 23
-1.2.3.0.2.7.8: 63 - DMG:5 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-1.2.3.0.6.0.5: 63 - DMG:5 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-1.2.3.0.6.0.7: 63 - DMG:5 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-2.4.1.3.7.6.4: 64 - DMG:4 - Health:13 - Initiative:2 - Priorities:|7:4| - Energy(Max,Regen,EPDMG):|44:9:1|
-1.2.3.0.6.0.8: 64 - DMG:5 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|49:11:1|
-1.2.3.0.2.7.3: 65 - DMG:5 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-2.4.1.3.3.0.8: 67 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-1.2.3.0.2.7.7: 67 - DMG:5 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-1.2.3.0.2.7.1: 68 - DMG:5 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-1.2.3.0.6.0.1: 69 - DMG:5 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
+Fighter '6.7.'s children dominate the arena!
+2.0: 81 - DMG:2 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+2.1: 82 - DMG:2 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+2.7: 82 - DMG:2 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+2.4: 83 - DMG:2 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+2.3: 85 - DMG:2 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+2.6: 85 - DMG:2 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+2.9: 86 - DMG:2 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+2.8: 87 - DMG:2 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+2.5: 91 - DMG:2 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+3.1: 96 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
 ========================
 
 Round 24
-1.2.3.0.6.0.7.0: 58 - DMG:5 - Health:13 - Initiative:1 - Priorities:|9:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-1.2.3.0.6.0.8.3: 58 - DMG:5 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|49:11:1|
-2.4.1.3.3.0.8.5: 58 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-1.2.3.0.6.0.1.3: 58 - DMG:5 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:12:1|
-1.2.3.0.2.7.7.6: 59 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-1.2.3.0.2.7.8.3: 60 - DMG:5 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-1.2.3.0.6.0.7.4: 61 - DMG:5 - Health:13 - Initiative:1 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-2.4.1.3.3.0.8.6: 61 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.1.3.3.0.8.9: 61 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.1.3.3.0.8.1: 66 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
+3.1.6: 65 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+3.1.8: 65 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+3.1.1: 66 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+2.7.1: 68 - DMG:2 - Health:52 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:8 - EC:15
+3.1.7: 71 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+3.1.2: 72 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+3.1.4: 73 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+3.1.9: 74 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+3.1.0: 80 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+3.1.3: 90 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
 ========================
 
 Round 25
-1.2.3.0.2.7.7.6.8: 59 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-2.4.1.3.3.0.8.9.0: 59 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-1.2.3.0.6.0.7.0.6: 60 - DMG:5 - Health:13 - Initiative:1 - Priorities:|9:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-2.4.1.3.3.0.8.5.3: 61 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-1.2.3.0.2.7.7.6.0: 61 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-1.2.3.0.2.7.7.6.1: 61 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-1.2.3.0.2.7.7.6.2: 61 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-1.2.3.0.2.7.7.6.3: 62 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-2.4.1.3.3.0.8.6.4: 62 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.1.3.3.0.8.5.1: 71 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:13:1|
+Fighter '3.1.'s children dominate the arena!
+3.1: 68 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+3.7: 68 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+3.9: 68 - DMG:3 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.5: 69 - DMG:2 - Health:59 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:14 - EC:25 HRT - HP:12 - EC:15
+3.0: 70 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+3.8: 71 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+2.9: 72 - DMG:2 - Health:59 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+3.6: 74 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.7: 75 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:25:29| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.8: 84 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
 ========================
 
 Round 26
-1.2.3.0.2.7.7.6.0.1: 59 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-1.2.3.0.2.7.7.6.8.4: 60 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-1.2.3.0.2.7.7.6.8.8: 61 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-1.2.3.0.2.7.7.6.8.1: 62 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-1.2.3.0.2.7.7.6.8.9: 62 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-2.4.1.3.3.0.8.9.0.4: 62 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-2.4.1.3.3.0.8.5.3.3: 62 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-1.2.3.0.2.7.7.6.0.6: 62 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-1.2.3.0.2.7.7.6.0.0: 63 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-1.2.3.0.2.7.7.6.3.2: 63 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
+8.8.2: 61 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+3.9.2: 62 - DMG:3 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.8.9: 62 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.8.5: 63 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.8.8: 63 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.8.0: 64 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.8.1: 66 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.8.4: 72 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+3.0.9: 73 - DMG:2 - Health:56 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.8.6: 78 - DMG:2 - Health:59 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
 ========================
 
 Round 27
-Fighter '1.2.3.0.2.7.7.6.'s children dominate the arena!
-0.1.2: 60 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-0.1.7: 60 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-8.4.3: 60 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-8.8.8: 60 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-8.1.2: 60 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-0.1.6: 62 - DMG:5 - Health:11 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-8.1.4: 63 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-0.1.8: 64 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-8.4.0: 66 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:12:1|
-8.4.8: 68 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
+8.8.6.3: 67 - DMG:2 - Health:59 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.8.6.5: 67 - DMG:2 - Health:59 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.8.6.9: 67 - DMG:2 - Health:59 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+3.0.9.9: 69 - DMG:2 - Health:58 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.8.6.8: 69 - DMG:2 - Health:59 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.8.6.2: 71 - DMG:2 - Health:59 - Initiative:2 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.8.6.7: 72 - DMG:2 - Health:59 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.8.4.7: 74 - DMG:2 - Health:56 - Initiative:1 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|140:28:29| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.8.2.2: 77 - DMG:2 - Health:61 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
+8.8.6.6: 78 - DMG:2 - Health:59 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
 ========================
 
 Round 28
-8.1.2.3: 60 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-0.1.2.0: 61 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|45:11:1|
-0.1.2.3: 61 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-0.1.7.3: 61 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-8.8.8.9: 61 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-0.1.2.7: 62 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-8.4.3.6: 64 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:10:1|
-0.1.2.4: 65 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-8.8.8.7: 66 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-0.1.7.4: 68 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
+8.8.6.9.1: 60 - DMG:2 - Health:59 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.8.2.2.3: 60 - DMG:2 - Health:61 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
+8.8.2.2.6: 60 - DMG:2 - Health:61 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
+8.8.6.2.1: 61 - DMG:2 - Health:59 - Initiative:2 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:12 - EC:15
+8.8.2.2.4: 62 - DMG:2 - Health:61 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
+8.8.2.2.5: 63 - DMG:2 - Health:61 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
+8.8.2.2.8: 64 - DMG:2 - Health:61 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
+8.8.2.2.0: 65 - DMG:2 - Health:61 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
+8.8.2.2.2: 70 - DMG:2 - Health:61 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
+3.0.9.9.3: 73 - DMG:2 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
 ========================
 
 Round 29
-0.1.2.3.0: 59 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-0.1.7.3.7: 59 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-8.8.8.9.2: 59 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-8.8.8.9.6: 59 - DMG:5 - Health:13 - Initiative:3 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-8.1.2.3.3: 61 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-0.1.2.0.7: 62 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|45:11:1|
-0.1.2.3.4: 62 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-8.1.2.3.5: 63 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
-0.1.2.0.2: 65 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|45:11:1|
-0.1.2.3.2: 67 - DMG:5 - Health:13 - Initiative:2 - Priorities:|7:5| - Energy(Max,Regen,EPDMG):|44:11:1|
+8.8.2.2.5.7: 58 - DMG:2 - Health:61 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
+8.8.2.2.3.6: 59 - DMG:2 - Health:64 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
+3.0.9.9.3.0: 59 - DMG:2 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.0.9.9.3.3: 60 - DMG:2 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.8.2.2.8.1: 61 - DMG:2 - Health:61 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
+3.0.9.9.3.4: 61 - DMG:2 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.0.9.9.3.8: 61 - DMG:2 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.0.9.9.3.5: 62 - DMG:2 - Health:61 - Initiative:2 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.8.2.2.0.9: 63 - DMG:2 - Health:63 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:18 - EC:25 HRT - HP:12 - EC:15
+8.8.2.2.5.8: 64 - DMG:3 - Health:61 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
 ========================
 
 Round 30
+8.8.2.2.3.6.9: 60 - DMG:2 - Health:64 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
+3.0.9.9.3.3.6: 61 - DMG:2 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.8.2.2.3.6.1: 62 - DMG:2 - Health:64 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
+3.0.9.9.3.3.0: 62 - DMG:2 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.0.9.9.3.3.1: 62 - DMG:2 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.8.2.2.3.6.7: 63 - DMG:2 - Health:64 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
+3.0.9.9.3.3.9: 63 - DMG:2 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.0.9.9.3.3.8: 67 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.0.9.9.3.3.4: 68 - DMG:2 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.8.2.2.5.7.5: 71 - DMG:2 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
+========================
+
+Round 31
+3.0.9.9.3.3.8.0: 59 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.0.9.9.3.3.8.1: 59 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.0.9.9.3.3.8.2: 59 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.0.9.9.3.3.9.2: 61 - DMG:2 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.8.2.2.3.6.9.3: 62 - DMG:2 - Health:66 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
+3.0.9.9.3.3.9.5: 62 - DMG:2 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.0.9.9.3.3.8.6: 66 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.0.9.9.3.3.8.9: 67 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.8.2.2.3.6.1.9: 69 - DMG:2 - Health:67 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:19 - EC:25 HRT - HP:12 - EC:15
+8.8.2.2.5.7.5.9: 71 - DMG:2 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:30:30| DBLHRT - HP:16 - EC:25 HRT - HP:12 - EC:15
+========================
+
+Round 32
+3.0.9.9.3.3.8.6.9: 60 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.0.9.9.3.3.8.1.7: 61 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.8.2.2.3.6.1.9.1: 61 - DMG:2 - Health:67 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:19 - EC:25 HRT - HP:12 - EC:15
+3.0.9.9.3.3.8.1.0: 62 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.8.2.2.3.6.1.9.5: 62 - DMG:2 - Health:67 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:19 - EC:25 HRT - HP:12 - EC:15
+3.0.9.9.3.3.8.1.9: 63 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.0.9.9.3.3.8.6.4: 63 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:27:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.0.9.9.3.3.9.5.6: 65 - DMG:2 - Health:66 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:28:30| DBLHRT - HP:11 - EC:25 HRT - HP:20 - EC:15
+3.0.9.9.3.3.8.9.5: 74 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:29:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.8.2.2.3.6.1.9.6: 75 - DMG:2 - Health:67 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:19 - EC:25 HRT - HP:12 - EC:15
+========================
+
+Round 33
+8.8.2.2.3.6.1.9.6.0: 64 - DMG:2 - Health:67 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:19 - EC:25 HRT - HP:12 - EC:15
+8.8.2.2.3.6.1.9.6.8: 64 - DMG:2 - Health:67 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:19 - EC:25 HRT - HP:12 - EC:15
+3.0.9.9.3.3.8.9.5.9: 65 - DMG:4 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:29:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.8.2.2.3.6.1.9.6.3: 65 - DMG:2 - Health:67 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:19 - EC:25 HRT - HP:12 - EC:15
+8.8.2.2.3.6.1.9.6.9: 65 - DMG:2 - Health:67 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:19 - EC:25 HRT - HP:12 - EC:15
+8.8.2.2.3.6.1.9.1.2: 67 - DMG:2 - Health:67 - Initiative:1 - Priorities:|4:6| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:19 - EC:25 HRT - HP:12 - EC:15
+3.0.9.9.3.3.8.9.5.7: 67 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:29:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.0.9.9.3.3.8.9.5.2: 68 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:29:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.8.2.2.3.6.1.9.5.2: 69 - DMG:2 - Health:70 - Initiative:1 - Priorities:|4:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:19 - EC:25 HRT - HP:12 - EC:15
+3.0.9.9.3.3.8.9.5.8: 70 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:29:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+========================
+
+Round 34
+3.0.9.9.3.3.8.9.5.9.7: 60 - DMG:4 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:29:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.0.9.9.3.3.8.9.5.9.4: 61 - DMG:4 - Health:61 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:29:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.8.2.2.3.6.1.9.6.3.0: 61 - DMG:2 - Health:69 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:19 - EC:25 HRT - HP:12 - EC:15
+3.0.9.9.3.3.8.9.5.8.6: 61 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:29:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.8.2.2.3.6.1.9.6.0.6: 64 - DMG:3 - Health:67 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:19 - EC:25 HRT - HP:12 - EC:15
+3.0.9.9.3.3.8.9.5.9.0: 69 - DMG:4 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:29:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.8.2.2.3.6.1.9.6.8.3: 71 - DMG:2 - Health:72 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:19 - EC:25 HRT - HP:17 - EC:15
+8.8.2.2.3.6.1.9.6.3.6: 72 - DMG:3 - Health:67 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|140:28:30| DBLHRT - HP:19 - EC:25 HRT - HP:12 - EC:15
+3.0.9.9.3.3.8.9.5.8.7: 74 - DMG:3 - Health:66 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:29:30| DBLHRT - HP:11 - EC:25 HRT - HP:20 - EC:15
+3.0.9.9.3.3.8.9.5.8.4: 78 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+========================
+
+Round 35
+Fighter '3.0.9.9.3.3.8.9.5.'s children dominate the arena!
+9.0.6: 61 - DMG:4 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:29:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+9.0.7: 61 - DMG:4 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:29:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.7.5: 62 - DMG:3 - Health:66 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:29:30| DBLHRT - HP:11 - EC:25 HRT - HP:20 - EC:15
+8.4.1: 62 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.4.8: 63 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.4.4: 65 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.4.9: 65 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.7.2: 67 - DMG:3 - Health:66 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:29:30| DBLHRT - HP:11 - EC:25 HRT - HP:20 - EC:15
+8.4.0: 68 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.4.6: 70 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+========================
+
+Round 36
+Fighter '8.4.'s children dominate the arena!
+4.6: 59 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+4.9: 59 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+1.0: 60 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+4.4: 60 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+1.9: 61 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+0.5: 62 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+1.7: 63 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.3: 64 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.7: 66 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:34:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+9.1: 66 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+========================
+
+Round 37
+4.6.4: 59 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+1.7.7: 59 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.7.8: 59 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:34:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+4.9.4: 61 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.7.0: 61 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:34:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.7.9: 61 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:34:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.7.3: 62 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:34:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+4.4.2: 63 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.7.6: 63 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:34:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.3.3: 64 - DMG:3 - Health:64 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:18 - EC:15
+========================
+
+Round 38
+Fighter '8.'s children dominate the arena!
+7.8.9: 60 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:34:29| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+7.9.7: 61 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:34:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+7.8.5: 62 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:34:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+7.0.0: 62 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:34:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+7.0.8: 63 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.3.6: 64 - DMG:3 - Health:64 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:18 - EC:15
+3.3.3: 65 - DMG:3 - Health:64 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:30| DBLHRT - HP:11 - EC:25 HRT - HP:18 - EC:15
+3.3.7: 65 - DMG:3 - Health:64 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:29| DBLHRT - HP:11 - EC:25 HRT - HP:18 - EC:15
+7.6.2: 69 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+7.0.6: 70 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:34:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+========================
+
+Round 39
+7.0.8.0: 60 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+7.0.8.9: 62 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+7.6.2.8: 62 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+7.0.6.6: 62 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:34:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+7.0.6.9: 62 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:34:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+7.0.8.8: 63 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+3.3.7.4: 63 - DMG:3 - Health:64 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:29| DBLHRT - HP:11 - EC:25 HRT - HP:18 - EC:15
+7.6.2.9: 65 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+7.0.8.5: 68 - DMG:3 - Health:61 - Initiative:2 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+7.0.6.3: 70 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:34:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+========================
+
+Round 40
+3.3.7.4.9: 57 - DMG:3 - Health:64 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:32:29| DBLHRT - HP:11 - EC:25 HRT - HP:18 - EC:15
+7.0.8.5.8: 57 - DMG:3 - Health:61 - Initiative:2 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+7.0.8.0.5: 58 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+7.0.8.0.7: 58 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+7.0.8.9.7: 58 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+7.6.2.8.3: 59 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+7.0.8.5.9: 59 - DMG:3 - Health:61 - Initiative:2 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+7.0.6.6.7: 60 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:34:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+7.0.6.9.2: 60 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+7.0.6.6.2: 62 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:36:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+========================
+
+Round 41
+Fighter '7.'s children dominate the arena!
+0.6.6.2.7: 60 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:36:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.2.8.3.4: 61 - DMG:3 - Health:61 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+0.8.5.9.1: 61 - DMG:4 - Health:61 - Initiative:2 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+0.6.9.2.6: 61 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+0.6.6.2.2: 61 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:36:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+0.6.9.2.0: 62 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+0.6.9.2.1: 62 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+0.6.9.2.7: 68 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+0.6.6.2.3: 69 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:36:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+0.6.9.2.8: 72 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+========================
+
+Round 42
+Fighter '0.'s children dominate the arena!
+6.9.2.6.8: 57 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.9.2.0.3: 57 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.9.2.7.0: 57 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.6.2.3.9: 57 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:36:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.6.2.2.7: 58 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:36:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.9.2.1.3: 58 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|147:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.6.2.3.3: 58 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:36:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+8.5.9.1.0: 59 - DMG:4 - Health:61 - Initiative:2 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+8.5.9.1.7: 60 - DMG:4 - Health:61 - Initiative:2 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+6.9.2.8.3: 62 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+========================
+
+Round 43
+6.6.2.2.7.6: 57 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:36:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.9.2.7.0.1: 58 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.9.2.1.3.8: 58 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|147:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.9.2.6.8.6: 59 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.9.2.0.3.4: 59 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+8.5.9.1.0.8: 59 - DMG:4 - Health:61 - Initiative:2 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+6.6.2.3.3.2: 60 - DMG:3 - Health:67 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:36:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.9.2.0.3.0: 62 - DMG:3 - Health:68 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.9.2.8.3.6: 62 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.9.2.8.3.8: 67 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+========================
+
+Round 44
+6.9.2.0.3.0.5: 59 - DMG:3 - Health:68 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.9.2.8.3.6.3: 59 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.9.2.8.3.6.7: 59 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.6.2.3.3.2.5: 62 - DMG:3 - Health:67 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:36:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.9.2.7.0.1.6: 63 - DMG:3 - Health:67 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.9.2.0.3.4.6: 63 - DMG:3 - Health:65 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+6.9.2.0.3.0.9: 64 - DMG:3 - Health:67 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:18 - EC:15
+6.9.2.0.3.0.3: 65 - DMG:3 - Health:68 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+8.5.9.1.0.8.3: 72 - DMG:4 - Health:61 - Initiative:2 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:39:30| DBLHRT - HP:11 - EC:25 HRT - HP:15 - EC:15
+6.9.2.0.3.4.2: 77 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+========================
+
+Round 45
+Fighter '6.9.2.0.3.'s children dominate the arena!
+4.2.6: 68 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+4.2.9: 68 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+4.2.8: 70 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+4.2.1: 71 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+4.2.4: 71 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+4.2.7: 72 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+0.5.9: 73 - DMG:4 - Health:68 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+4.2.3: 74 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+4.2.2: 77 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+4.2.0: 78 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+========================
+
+Round 46
+4.2.9.1: 58 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+4.2.8.3: 58 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+4.2.8.5: 58 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+4.2.7.8: 58 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+4.2.7.5: 59 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+0.5.9.8: 59 - DMG:5 - Health:68 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+4.2.1.9: 61 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+4.2.4.7: 61 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+4.2.9.4: 65 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+4.2.1.0: 76 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+========================
+
+Round 47
+4.2.1.0.5: 59 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+0.5.9.8.1: 60 - DMG:5 - Health:68 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+0.5.9.8.9: 60 - DMG:5 - Health:68 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+4.2.1.0.3: 60 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+0.5.9.8.3: 61 - DMG:5 - Health:68 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+4.2.8.5.0: 63 - DMG:3 - Health:70 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:11 - EC:25 HRT - HP:24 - EC:15
+0.5.9.8.4: 67 - DMG:5 - Health:68 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+4.2.1.0.0: 67 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+0.5.9.8.8: 75 - DMG:5 - Health:71 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+4.2.1.0.7: 75 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:29| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+========================
+
+Round 48
+4.2.1.0.7.6: 60 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:29| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+0.5.9.8.8.4: 62 - DMG:5 - Health:71 - Initiative:0 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:30| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+4.2.1.0.7.4: 62 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:29| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+4.2.1.0.3.7: 64 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:30| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+0.5.9.8.4.1: 64 - DMG:5 - Health:68 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+4.2.1.0.7.5: 65 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:29| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+4.2.1.0.7.7: 65 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:29| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+4.2.1.0.0.3: 66 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:41:30| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+0.5.9.8.8.1: 66 - DMG:5 - Health:71 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+4.2.1.0.7.8: 71 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:29| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+========================
+
+Round 49
+4.2.1.0.7.6.9: 60 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:29| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+4.2.1.0.7.7.5: 60 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:29| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+4.2.1.0.7.7.8: 60 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:29| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+0.5.9.8.8.1.0: 60 - DMG:6 - Health:71 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+4.2.1.0.7.6.1: 61 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:29| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+0.5.9.8.8.1.6: 61 - DMG:5 - Health:71 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+4.2.1.0.7.5.4: 62 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:43:29| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+4.2.1.0.0.3.4: 63 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:44:30| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+0.5.9.8.8.1.3: 67 - DMG:5 - Health:71 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+0.5.9.8.8.1.8: 67 - DMG:5 - Health:71 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+========================
+
+Round 50
+0.5.9.8.8.1.6.6: 61 - DMG:5 - Health:71 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+4.2.1.0.7.5.4.0: 61 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:43:29| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+4.2.1.0.7.5.4.9: 61 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:5| - Energy(Max,Regen,EPDMG):|149:43:29| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+0.5.9.8.8.1.0.0: 62 - DMG:6 - Health:71 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+0.5.9.8.8.1.0.2: 62 - DMG:6 - Health:73 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+4.2.1.0.0.3.4.9: 62 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:45:30| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+0.5.9.8.8.1.0.5: 63 - DMG:6 - Health:71 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+4.2.1.0.7.5.4.5: 64 - DMG:3 - Health:75 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:43:29| DBLHRT - HP:16 - EC:25 HRT - HP:24 - EC:15
+0.5.9.8.8.1.0.6: 65 - DMG:6 - Health:71 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:37:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+0.5.9.8.8.1.8.1: 69 - DMG:5 - Health:71 - Initiative:1 - Priorities:|3:6| - Energy(Max,Regen,EPDMG):|149:40:29| DBLHRT - HP:11 - EC:25 HRT - HP:19 - EC:15
+========================
+

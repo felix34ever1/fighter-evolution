@@ -1,8 +1,10 @@
 from random import randint
+import action
+import organ
 
 class Fighter():
     
-    def __init__(self,name,attack_damage,max_health,initiative,attack_weight,idle_weight,max_energy,energy_regain,energy_damage_ratio) -> None:
+    def __init__(self,name,attack_damage,max_health,initiative,action_pool,max_energy,energy_regain,energy_damage_ratio,organs) -> None:
         
         self.name:str = name
         self.attack_damage:int = attack_damage
@@ -15,26 +17,32 @@ class Fighter():
         self.energy_damage_ratio:int = energy_damage_ratio
 
         self.initiative:int = initiative
+
+        self.organs:list[organ.Organ] = organs
         
-        self.attack_weight = attack_weight
-        self.idle_weight = idle_weight
+        self.action_pool:list[action.Action] = action_pool
+        
 
         self.wins = 0
 
-    def brain(self)->int: # Returns the damage dealt by the attacker, called each player's turn
-        pool = self.attack_weight+self.idle_weight
-        selection = randint(1,pool)
-        if selection<=self.attack_weight:
-            if self.energy>0:
-                self.energy-=self.attack_damage*self.energy_damage_ratio
-                return(self.attack_damage)
-            else:
-                return(0)
+    def brain(self,enemy)->int: # Returns the damage dealt by the attacker, called each player's turn
+        pool:int = 0
+        for organ in self.organs:
+            organ.on_turn(self,enemy)
+        for action in self.action_pool:
+            pool += action.weight
+        selected_item = randint(1,pool)
+        selected_pool = 0
+        for action in self.action_pool:
+            selected_pool += action.weight
+            if selected_item <= selected_pool:
+                damage = action.used(self,enemy)
+                return(damage)
         else:
-            self.energy += self.energy_regain
-            if self.energy>self.max_energy:
-                self.energy = self.max_energy
-            return(0)
+            return 0
+                
     
     def take_damage(self,damage_taken):
+        for organ in self.organs:
+            organ.on_damage_taken(self)
         self.health -= damage_taken
