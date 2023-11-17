@@ -7,12 +7,12 @@ import copy
 
 # Initialisation
 
-number_of_simulations = 50 # Number of simulations (generations of participants) to take place
+number_of_simulations = 500 # Number of simulations (generations of participants) to take place
 debug_feedback = False # Tells the program whether to print debug information to the test
 
 fighter_list:list[Fighter] = [] # Create the first batch of competitors
 for i in range(100):
-    fighter_list.append(Fighter(str(i),1,30,1,[action.Attack("ATK",5),action.Idle("IDLE",5)],180,5,30,[])) 
+    fighter_list.append(Fighter(str(i),1,30,1,[action.Attack("ATK",5),action.Idle("IDLE",5)],180,5,10,[])) 
 
 # Battle script
 
@@ -107,16 +107,16 @@ def natural_selection(fighter_list:list[Fighter])->fighter_list:
 # Mutation
 def mutation(fighter_list:list[Fighter]) -> fighter_list:
     organ_list:list[organ.Organ] = [
-        organ.Heart("HRT",3,15),
-        organ.Heart("DBLHRT",6,25),
-        organ.CoagulatoryGland("CGLND",10,2,10,1,3)
+#        organ.Heart("HRT",3,15),
+        organ.CoagulatoryGland("CGLND",10,2,10,1,3),
+        organ.SapGland("SGLND",5,5,40,1)
     ]
     new_list = []
     for fighter in fighter_list:
         for i in range(10):
             new_fighter = Fighter(fighter.name+"."+str(i),fighter.attack_damage,fighter.max_health,fighter.initiative,copy.deepcopy(fighter.action_pool),fighter.max_energy,fighter.energy_regain,fighter.energy_damage_ratio,copy.deepcopy(fighter.organs))
             if randint(1,5) == 1: # IF 1, a mutation occurs (therefore about 2 offspring per parent mutate, keeping a healthy baseline population)
-                mutation = randint(1,10)
+                mutation = randint(1,15)
                 match mutation:
                     case 1: # Damage (up or down by up to 1) 
                         new_fighter.attack_damage += randint(-1,1)
@@ -153,7 +153,7 @@ def mutation(fighter_list:list[Fighter]) -> fighter_list:
                     case 9: # Change a mutation
                         if len(new_fighter.organs)!=0:
                             new_fighter.organs[randint(0,len(new_fighter.organs)-1)].on_mutate(new_fighter)
-                    case 10: # Get a new mutation!
+                    case 10,11,12,13,14,15: # Get a new mutation!
                         organ_index = randint(0,len(organ_list)-1)
                         new_organ:organ.Organ = copy.deepcopy(organ_list[organ_index])
                         has_organ = False

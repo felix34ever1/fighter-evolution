@@ -48,3 +48,17 @@ class Heal(Action):
                 if fighter.health > fighter.max_health:
                     fighter.health = fighter.max_health
         return 0
+
+class Sap(Action):
+    def __init__(self, name, weight, sap_per_energy:int,used_energy:int) -> None:
+        super().__init__(name, weight)
+        self.sap_per_energy = sap_per_energy
+        self.used_energy = used_energy
+
+    def used(self, fighter, enemy) -> int:
+        
+        if fighter.energy > self.used_energy:
+            enemy.energy -= self.used_energy
+            fighter.energy -= self.used_energy
+
+        return 0
